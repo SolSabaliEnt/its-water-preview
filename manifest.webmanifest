@@ -1,0 +1,22 @@
+{
+  "id": "./#/ocean",
+  "name": "It's Water | Mermaid Gang",
+  "short_name": "It's Water",
+  "description": "Music, motion, fashion, opportunity, community, and your current — all in one living Mermaid Gang world.",
+  "start_url": "./#/ocean",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#59E7E4",
+  "theme_color": "#59E7E4",
+  "categories": ["lifestyle", "social", "music"],
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
