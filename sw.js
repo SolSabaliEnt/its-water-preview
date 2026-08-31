@@ -1,4 +1,4 @@
-const CACHE_NAME = "its-water-shell-v1";
+const CACHE_NAME = "its-watta-shell-v2";
 const CORE_ASSETS = ["./", "./manifest.webmanifest", "./favicon.svg"];
 
 self.addEventListener("install", (event) => {
